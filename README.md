@@ -22,7 +22,7 @@ Thank you for your interest, and I sincerely appreciate your visit to my profile
 <p align="left">
 <a href="https://linkedin.com/in/ismailcelebi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailcelebi7" height="30" width="40" /></a>
 <a href="https://instagram.com/ismailcelebi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismailcelebi7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ismailcelebi499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ismailcelebi499" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ismailcelebi499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ismailcelebi499" height="30" width="40" /></a>
 <a href="https://discord.gg/uchiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="uchiman" height="30" width="40" /></a>
 </p>
 
